@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GK1/GK1.iml" filepath="$PROJECT_DIR$/GK1/GK1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GK3/GK3.iml" filepath="$PROJECT_DIR$/GK3/GK3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GK5/GK5.iml" filepath="$PROJECT_DIR$/GK5/GK5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GK6/GK6.iml" filepath="$PROJECT_DIR$/GK6/GK6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrafikaKomputerowa.iml" filepath="$PROJECT_DIR$/GrafikaKomputerowa.iml" />
+    </modules>
+  </component>
+</project>
