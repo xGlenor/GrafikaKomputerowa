@@ -116,7 +116,7 @@ public class Main extends GLJPanel implements GLEventListener  {
 
 		// TODO draw some shapes!
 
-		PyramidBaseOnCircle(gl2, 10);
+		PyramidBaseOnCircle(gl2, 9);
 
 	} // end display()
 

@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GK1/GK1.iml" filepath="$PROJECT_DIR$/GK1/GK1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GK10.iml" filepath="$PROJECT_DIR$/GK10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GK11.iml" filepath="$PROJECT_DIR$/GK11.iml" />
       <module fileurl="file://$PROJECT_DIR$/GK3/GK3.iml" filepath="$PROJECT_DIR$/GK3/GK3.iml" />
       <module fileurl="file://$PROJECT_DIR$/GK5/GK5.iml" filepath="$PROJECT_DIR$/GK5/GK5.iml" />
       <module fileurl="file://$PROJECT_DIR$/GK6/GK6.iml" filepath="$PROJECT_DIR$/GK6/GK6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GK7/GK7.iml" filepath="$PROJECT_DIR$/GK7/GK7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GK8.iml" filepath="$PROJECT_DIR$/GK8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GK9.iml" filepath="$PROJECT_DIR$/GK9.iml" />
       <module fileurl="file://$PROJECT_DIR$/GrafikaKomputerowa.iml" filepath="$PROJECT_DIR$/GrafikaKomputerowa.iml" />
     </modules>
   </component>
